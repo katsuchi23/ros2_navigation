@@ -1,4 +1,4 @@
-This is reynaldy's ros2 package collection from normal package up to navigation package and manipulation package
+This is rey's ros2 navigation package collection.
 
 
 Have fun learning :)
