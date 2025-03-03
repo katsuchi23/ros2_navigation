@@ -410,4 +410,3 @@ collision_monitor:
       min_height: 0.1
       max_height: 0.5
       enabled: True
-
