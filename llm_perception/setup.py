@@ -24,7 +24,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'navigate_waypoint = llm_perception.navigate_waypoint:main'
+            'navigate_waypoint = llm_perception.navigate_waypoint:main',
+            'safety_navigation = llm_perception.safety_navigate:main',
         ],
     },
 )
